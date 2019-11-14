@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml-stylesheet type="text/xsl" href="PaddysCafe.xsl"?>
 <cafemenu>
+    <section name='Drink'>
+        <entree>
+            <item>Pepsi</item>
+            <price>2.00</price>
+        </entree>
+        <entree>
+            <item>Vodka</item>
+            <price>55.00</price>
+        </entree>    
+    </section>
     <section name="Side Dishes">
         <entree vegetarian="true">
             <item>Potato Salad</item>
